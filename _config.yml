@@ -3,3 +3,7 @@ Description: Learn binary step by step
 theme: minima
 plugins:
   - jekyll-feed
+# perms homepage
+show_excerpts: true
+paginate: 5
+paginate_path: "/page:num/"

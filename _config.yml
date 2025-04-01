@@ -7,3 +7,8 @@ plugins:
 show_excerpts: true
 paginate: 5
 paginate_path: "/page:num/"
+#
+collections:
+content:
+output: true
+permalink: /:title/

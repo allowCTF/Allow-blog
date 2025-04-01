@@ -1,3 +1,5 @@
 title : Allow binary 
 Description : Learn binary step by step 
 theme: minima
+plugins:
+- jekyll-feed
